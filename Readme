@@ -5,3 +5,6 @@ mvn clean install
 2. Hello world java
 mvn clean install
 java -cp target/web-1.0.jar Application
+
+3. Spring boot application
+mvn spring-boot:run
