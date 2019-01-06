@@ -8,3 +8,7 @@ java -cp target/web-1.0.jar Application
 
 3. Spring boot application
 mvn spring-boot:run
+
+4. Spring web controller
+mvn spring-boot:run
+go to localhost:8080
