@@ -1,3 +1,7 @@
 1. Initial project
 git clone git@github.com:yourvnv/spring-web-tutorial.git
 mvn clean install
+
+2. Hello world java
+mvn clean install
+java -cp target/web-1.0.jar Application
